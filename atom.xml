@@ -32,9 +32,9 @@
       <category term="test1" scheme="http://abe1.xyz/categories/test1/"/>
     
     
-      <category term="test2" scheme="http://abe1.xyz/tags/test2/"/>
-    
       <category term="test1" scheme="http://abe1.xyz/tags/test1/"/>
+    
+      <category term="test2" scheme="http://abe1.xyz/tags/test2/"/>
     
       <category term="test3" scheme="http://abe1.xyz/tags/test3/"/>
     

@@ -127,7 +127,7 @@
 
 
 
-  <meta name="keywords" content="test2,test1,test3,">
+  <meta name="keywords" content="test1,test2,test3,">
 
 
 
@@ -140,7 +140,7 @@
 
 
 
-<meta name="keywords" content="test2,test1,test3">
+<meta name="keywords" content="test1,test2,test3">
 <meta property="og:type" content="article">
 <meta property="og:title" content="test_two">
 <meta property="og:url" content="http://abe1.xyz/test1/test-two">
@@ -562,9 +562,9 @@
       
         <div class="post-tags">
           
-            <a href="/tags/test2/" rel="tag"><i class="fa fa-tag"></i> test2</a>
-          
             <a href="/tags/test1/" rel="tag"><i class="fa fa-tag"></i> test1</a>
+          
+            <a href="/tags/test2/" rel="tag"><i class="fa fa-tag"></i> test2</a>
           
             <a href="/tags/test3/" rel="tag"><i class="fa fa-tag"></i> test3</a>
           
@@ -746,26 +746,11 @@
 
     <footer id="footer" class="footer">
       <div class="footer-inner">
-        <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
+        ﻿<div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
   <span class="with-love">
     <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">MrAbe1</span>
-
-  
-    <span class="post-meta-divider">|</span>
-    <span class="post-meta-item-icon">
-      <i class="fa fa-area-chart"></i>
-    </span>
-    
-      <span class="post-meta-item-text">Site words total count&#58;</span>
-    
-    <span title="Site words total count">6</span>
-  <div class="theme-info">
-  <span class="post-count">Total Words:6</span>
-</div>
-  
-</div>
 
 
 
@@ -805,7 +790,7 @@
 
         
       </div>
-    </footer>
+    </div></footer>
 
     
 
