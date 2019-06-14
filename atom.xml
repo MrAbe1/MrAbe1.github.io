@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://abe1.xyz/"/>
-  <updated>2019-06-13T09:51:15.167Z</updated>
+  <updated>2019-06-13T10:40:49.521Z</updated>
   <id>http://abe1.xyz/</id>
   
   <author>
@@ -21,18 +21,22 @@
     <link href="http://abe1.xyz/2019/06/13/test-two/"/>
     <id>http://abe1.xyz/2019/06/13/test-two/</id>
     <published>2019-06-13T09:46:51.000Z</published>
-    <updated>2019-06-13T09:51:15.167Z</updated>
+    <updated>2019-06-13T10:40:49.521Z</updated>
     
     <summary type="html">
     
-      测试一下是否能显示出来
+      123
     
     </summary>
     
       <category term="test1" scheme="http://abe1.xyz/categories/test1/"/>
     
     
+      <category term="test1" scheme="http://abe1.xyz/tags/test1/"/>
+    
       <category term="test2" scheme="http://abe1.xyz/tags/test2/"/>
+    
+      <category term="test3" scheme="http://abe1.xyz/tags/test3/"/>
     
   </entry>
   
