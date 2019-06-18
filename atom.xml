@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://abe1.xyz/"/>
-  <updated>2019-06-13T10:40:49.521Z</updated>
+  <updated>2019-06-18T14:12:38.024Z</updated>
   <id>http://abe1.xyz/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo的个人备忘录</title>
+    <link href="http://abe1.xyz/Hexo/hexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%A4%87%E5%BF%98%E5%BD%95"/>
+    <id>http://abe1.xyz/Hexo/hexo的个人备忘录</id>
+    <published>2019-06-18T14:05:44.000Z</published>
+    <updated>2019-06-18T14:12:38.024Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>hexo *</li></ul><p>以next的主题为例</p><ul><li><p>修改博客布局的路径是\themes\next\layout_macro\post.swig<br>其他控件的修改路径\themes\next\layout_macro\ </p></li><li><p>修改文件字体大小的路径是\themes\next\source\css_variables</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      有关hexo文件修改的备忘录
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://abe1.xyz/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://abe1.xyz/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>test_two</title>
@@ -32,9 +54,9 @@
       <category term="test1" scheme="http://abe1.xyz/categories/test1/"/>
     
     
-      <category term="test2" scheme="http://abe1.xyz/tags/test2/"/>
-    
       <category term="test1" scheme="http://abe1.xyz/tags/test1/"/>
+    
+      <category term="test2" scheme="http://abe1.xyz/tags/test2/"/>
     
       <category term="test3" scheme="http://abe1.xyz/tags/test3/"/>
     

@@ -482,11 +482,28 @@
             </div>
           
 
+            
           
-
+       
+        <div class="post-tags">
+          
+            <a href="/tags/test1/" rel="tag"><i class="fa fa-tag"></i> test1</a>
+          
+        </div>
+       
         </div>
       </header>
     
+	
+	<% if (post.series){ %>
+    <div class="post-series"><%= post.series %>-<%= __('series') %>：
+        <% site.posts.sort('date').map(function(p){ %>
+            <% if (post.series="=" p.series){ %>
+                <li><a href="<%- url_for(p.path) %>"><%= p.title %></%=></a></li>
+            <% } %>
+        <% }) %>
+    </%></%></%></%></%=></%=></div>
+    <% } %>
 
     
     
@@ -510,7 +527,7 @@
     
       <div>
         <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
-  <div>如果本文对你有一点点的帮助，那将是对我最大的鼓励！如果你对我有一点小小的鼓励，那将是对我最大的帮助！</div>
+  <div>如果本文对你有一点点的帮助，那将是对我最大的鼓励！<br>如果你对我有一点小小的鼓励，那将是对我最大的帮助！</div>
   <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
     <span>打赏</span>
   </button>
@@ -560,14 +577,6 @@
 
     <footer class="post-footer">
       
-        <div class="post-tags">
-          
-            <a href="/tags/test1/" rel="tag"><i class="fa fa-tag"></i> test1</a>
-          
-        </div>
-      
-
-      
       
       
 
@@ -592,7 +601,7 @@
       
       
     </footer>
-  </div>
+  </%></%></div>
   
   
   
@@ -653,7 +662,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -664,7 +673,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
@@ -675,7 +684,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">4</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
