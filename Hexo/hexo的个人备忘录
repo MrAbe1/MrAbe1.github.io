@@ -481,23 +481,23 @@
               
             </div>
           
-
+      
+	    
+        <div class="post-tags">
+          
+            <a href="/tags/Hexo/" rel="tag"><i class="fa fa-tag"></i> Hexo</a>
+          
+          </div>
+         
+        
+		
           
               <div class="post-description">
                   有关hexo文件修改的备忘录
               </div>
             
           
-       
-        <div class="post-tags">
-          
-            <a href="/tags/Hexo/" rel="tag"><i class="fa fa-tag"></i> Hexo</a>
-          
-        </div>
-       
-        </div>
-      </header>
-    
+      
 	
     
     
@@ -574,9 +574,15 @@
 
       </div>
     
-
+      
     <footer class="post-footer">
       
+      
+		
+        
+
+        
+        </footer></div>
       
       
 
@@ -600,8 +606,8 @@
 
       
       
-    </footer>
-  </div>
+    
+  </header></div>
   
   
   

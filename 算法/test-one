@@ -481,19 +481,19 @@
               
             </div>
           
-
-            
-          
-       
+      
+	    
         <div class="post-tags">
           
             <a href="/tags/test1/" rel="tag"><i class="fa fa-tag"></i> test1</a>
           
-        </div>
-       
-        </div>
-      </header>
-    
+          </div>
+         
+        
+		
+            
+          
+      
 	
     
     
@@ -564,9 +564,15 @@
 
       </div>
     
-
+      
     <footer class="post-footer">
       
+      
+		
+        
+
+        
+        </footer></div>
       
       
 
@@ -590,8 +596,8 @@
 
       
       
-    </footer>
-  </div>
+    
+  </header></div>
   
   
   
