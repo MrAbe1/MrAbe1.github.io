@@ -148,7 +148,7 @@
 <meta property="og:site_name" content="MrAbe1&#39;Blog">
 <meta property="og:description" content="有关hexo文件修改的备忘录">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-18T14:12:38.024Z">
+<meta property="og:updated_time" content="2019-06-18T14:18:08.025Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="hexo的个人备忘录">
 <meta name="twitter:description" content="有关hexo文件修改的备忘录">
@@ -460,7 +460,7 @@
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  51 字
+                  53 字
                 </span>
               
 
@@ -499,16 +499,6 @@
       </header>
     
 	
-	<% if (post.series){ %>
-    <div class="post-series"><%= post.series %>-<%= __('series') %>：
-        <% site.posts.sort('date').map(function(p){ %>
-            <% if (post.series="=" p.series){ %>
-                <li><a href="<%- url_for(p.path) %>"><%= p.title %></%=></a></li>
-            <% } %>
-        <% }) %>
-    </%></%></%></%></%=></%=></div>
-    <% } %>
-
     
     
     
@@ -518,14 +508,11 @@
       
 
       
-        <ul>
-<li>hexo *</li>
-</ul>
-<p>以next的主题为例</p>
+        <p>以next的主题为例</p>
 <ul>
-<li><p>修改博客布局的路径是\themes\next\layout_macro\post.swig<br>其他控件的修改路径\themes\next\layout_macro\ </p>
+<li><p>修改博客布局的路径是\themes\next\layout\_macro\post.swig<br>其他控件的修改路径\themes\next\layout\_macro\ </p>
 </li>
-<li><p>修改文件字体大小的路径是\themes\next\source\css_variables</p>
+<li><p>修改文件字体大小的路径是\themes\next\source\css\_variables</p>
 </li>
 </ul>
 
@@ -614,7 +601,7 @@
       
       
     </footer>
-  </%></%></div>
+  </div>
   
   
   

@@ -456,7 +456,7 @@
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  51 字
+                  53 字
                 </span>
               
 
@@ -485,16 +485,6 @@
       </header>
     
 	
-	<% if (post.series){ %>
-    <div class="post-series"><%= post.series %>-<%= __('series') %>：
-        <% site.posts.sort('date').map(function(p){ %>
-            <% if (post.series="=" p.series){ %>
-                <li><a href="<%- url_for(p.path) %>"><%= p.title %></%=></a></li>
-            <% } %>
-        <% }) %>
-    </%></%></%></%></%=></%=></div>
-    <% } %>
-
     
     
     
@@ -536,7 +526,7 @@
         <div class="post-eof"></div>
       
     </footer>
-  </%></%></div>
+  </div>
   
   
   
@@ -671,16 +661,6 @@
       </header>
     
 	
-	<% if (post.series){ %>
-    <div class="post-series"><%= post.series %>-<%= __('series') %>：
-        <% site.posts.sort('date').map(function(p){ %>
-            <% if (post.series="=" p.series){ %>
-                <li><a href="<%- url_for(p.path) %>"><%= p.title %></%=></a></li>
-            <% } %>
-        <% }) %>
-    </%></%></%></%></%=></%=></div>
-    <% } %>
-
     
     
     
@@ -722,7 +702,7 @@
         <div class="post-eof"></div>
       
     </footer>
-  </%></%></div>
+  </div>
   
   
   
@@ -857,16 +837,6 @@
       </header>
     
 	
-	<% if (post.series){ %>
-    <div class="post-series"><%= post.series %>-<%= __('series') %>：
-        <% site.posts.sort('date').map(function(p){ %>
-            <% if (post.series="=" p.series){ %>
-                <li><a href="<%- url_for(p.path) %>"><%= p.title %></%=></a></li>
-            <% } %>
-        <% }) %>
-    </%></%></%></%></%=></%=></div>
-    <% } %>
-
     
     
     
@@ -911,7 +881,7 @@
         <div class="post-eof"></div>
       
     </footer>
-  </%></%></div>
+  </div>
   
   
   

@@ -500,16 +500,6 @@
       </header>
     
 	
-	<% if (post.series){ %>
-    <div class="post-series"><%= post.series %>-<%= __('series') %>：
-        <% site.posts.sort('date').map(function(p){ %>
-            <% if (post.series="=" p.series){ %>
-                <li><a href="<%- url_for(p.path) %>"><%= p.title %></%=></a></li>
-            <% } %>
-        <% }) %>
-    </%></%></%></%></%=></%=></div>
-    <% } %>
-
     
     
     
@@ -609,7 +599,7 @@
       
       
     </footer>
-  </%></%></div>
+  </div>
   
   
   
