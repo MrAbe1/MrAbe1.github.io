@@ -148,7 +148,7 @@
 <meta property="og:site_name" content="MrAbe1&#39;Blog">
 <meta property="og:description" content="我是来测试的">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-13T09:52:17.299Z">
+<meta property="og:updated_time" content="2019-06-19T03:37:15.932Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="test_one">
 <meta name="twitter:description" content="我是来测试的">
@@ -481,20 +481,14 @@
               
             </div>
           
-      
-	    
-        <div class="post-tags">
+
+           
+         </div>
+        </header>
+       		  
           
-            <a href="/tags/test1/" rel="tag"><i class="fa fa-tag"></i> test1</a>
-          
-          </div>
-         
-        
-		
-            
-          
-      
-	
+     
+
     
     
     
@@ -512,7 +506,29 @@
     
     
 
+  
+
     
+      <div>
+        <ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者：</strong>
+    MrAbe1
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="http://abe1.xyz/算法/test-one" title="test_one">http://abe1.xyz/算法/test-one</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>
+    本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="external nofollow" target="_blank">CC BY-NC-SA 3.0</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+
+      </div>
+    
+    
+	  
 
     
       <div>
@@ -544,35 +560,17 @@
 
       </div>
     
-
-    
-      <div>
-        <ul class="post-copyright">
-  <li class="post-copyright-author">
-    <strong>本文作者：</strong>
-    MrAbe1
-  </li>
-  <li class="post-copyright-link">
-    <strong>本文链接：</strong>
-    <a href="http://abe1.xyz/算法/test-one" title="test_one">http://abe1.xyz/算法/test-one</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>
-    本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="external nofollow" target="_blank">CC BY-NC-SA 3.0</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-
-      </div>
-    
+	
+	   
+        <div class="post-tags">
+          
+            <a href="/tags/test1/" rel="tag"><i class="fa fa-tag"></i> test1</a>
+          
+        </div>
+       
       
     <footer class="post-footer">
       
-      
-		
-        
-
-        
-        </footer></div>
       
       
 
@@ -596,8 +594,8 @@
 
       
       
-    
-  </header></div>
+    </footer>
+  </div>
   
   
   
