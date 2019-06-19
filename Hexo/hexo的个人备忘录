@@ -598,6 +598,10 @@
 
           <div class="post-nav-prev post-nav-item">
             
+              <a href="/PAT乙级/1001-害死人不偿命的-3n-1-猜想-15-分" rel="prev" title="1001 害死人不偿命的(3n+1)猜想 (15 分)">
+                1001 害死人不偿命的(3n+1)猜想 (15 分) <i class="fa fa-chevron-right"></i>
+              </a>
+            
           </div>
         </div>
       
@@ -666,7 +670,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">4</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -677,7 +681,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">4</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
