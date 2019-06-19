@@ -14,9 +14,9 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://abe1.xyz
+url: https://abe1.xyz
 root: /
-permalink: :category/:title
+permalink: :year/:month/:title
 permalink_defaults:
 
 # Directory
