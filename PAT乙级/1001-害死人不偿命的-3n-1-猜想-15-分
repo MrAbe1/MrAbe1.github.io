@@ -140,18 +140,18 @@
 
 
 
-<meta name="description" content="题目名称 1001 害死人不偿命的(3n+1)猜想 (15 分)  题目描述 卡拉兹(Callatz)猜想：对任何一个正整数 n，如果它是偶数，那么把它砍掉一半；如果它是奇数，那么把 (3n+1) 砍掉一半。这样一直反复砍下去，最后一定在某一步得到 n=1。卡拉兹在 1950 年的世界数学家大会上公布了这个猜想，传说当时耶鲁大学师生齐动员，拼命想证明这个貌似很傻很天真的命题，结果闹得学生们无心学业">
+<meta name="description" content="1001 害死人不偿命的(3n+1)猜想">
 <meta name="keywords" content="模拟,pat">
 <meta property="og:type" content="article">
 <meta property="og:title" content="1001 害死人不偿命的(3n+1)猜想 (15 分)">
 <meta property="og:url" content="http://abe1.xyz/PAT乙级/1001-害死人不偿命的-3n-1-猜想-15-分">
 <meta property="og:site_name" content="MrAbe1&#39;Blog">
-<meta property="og:description" content="题目名称 1001 害死人不偿命的(3n+1)猜想 (15 分)  题目描述 卡拉兹(Callatz)猜想：对任何一个正整数 n，如果它是偶数，那么把它砍掉一半；如果它是奇数，那么把 (3n+1) 砍掉一半。这样一直反复砍下去，最后一定在某一步得到 n=1。卡拉兹在 1950 年的世界数学家大会上公布了这个猜想，传说当时耶鲁大学师生齐动员，拼命想证明这个貌似很傻很天真的命题，结果闹得学生们无心学业">
+<meta property="og:description" content="1001 害死人不偿命的(3n+1)猜想">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-19T07:27:14.946Z">
+<meta property="og:updated_time" content="2019-06-19T07:31:51.702Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="1001 害死人不偿命的(3n+1)猜想 (15 分)">
-<meta name="twitter:description" content="题目名称 1001 害死人不偿命的(3n+1)猜想 (15 分)  题目描述 卡拉兹(Callatz)猜想：对任何一个正整数 n，如果它是偶数，那么把它砍掉一半；如果它是奇数，那么把 (3n+1) 砍掉一半。这样一直反复砍下去，最后一定在某一步得到 n=1。卡拉兹在 1950 年的世界数学家大会上公布了这个猜想，传说当时耶鲁大学师生齐动员，拼命想证明这个貌似很傻很天真的命题，结果闹得学生们无心学业">
+<meta name="twitter:description" content="1001 害死人不偿命的(3n+1)猜想">
 
 
 
@@ -482,6 +482,10 @@
             </div>
           
 
+          
+              <div class="post-description">
+                  1001 害死人不偿命的(3n+1)猜想
+              </div>
            
          </div>
         </header>
@@ -584,7 +588,9 @@
 	   
         <div class="post-tags">
           
-            <a href="/tags/模拟-pat/" rel="tag"><i class="fa fa-tag"></i> 模拟,pat</a>
+            <a href="/tags/模拟/" rel="tag"><i class="fa fa-tag"></i> 模拟</a>
+          
+            <a href="/tags/pat/" rel="tag"><i class="fa fa-tag"></i> pat</a>
           
         </div>
        
@@ -707,7 +713,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">5</span>
+                  <span class="site-state-item-count">6</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
