@@ -504,7 +504,7 @@
       
         <p>以next的主题为例</p>
 <ul>
-<li><p>修改博客布局的路径是\themes\next\layout\_macro\post.swig<br>其他控件的修改路径\themes\next\layout\_macro\ </p>
+<li><p>修改博客布局的路径是\themes\next\layout\_macro\post.swig<br>其他控件的修改路径\themes\next\layout\_macro </p>
 </li>
 <li><p>修改文件字体大小的路径是\themes\next\source\css\_variables</p>
 </li>
@@ -666,7 +666,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">2</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -688,7 +688,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
@@ -974,6 +974,8 @@
   
 
   
+  
+
 
   
 
