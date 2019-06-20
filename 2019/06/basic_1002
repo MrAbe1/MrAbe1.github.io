@@ -127,7 +127,7 @@
 
 
 
-  <meta name="keywords" content="字符串处理,pat,">
+  <meta name="keywords" content="pat,字符串处理,">
 
 
 
@@ -141,14 +141,14 @@
 
 
 <meta name="description" content="1002 写出这个数 (20 分)">
-<meta name="keywords" content="字符串处理,pat">
+<meta name="keywords" content="pat,字符串处理">
 <meta property="og:type" content="article">
 <meta property="og:title" content="1002 写出这个数 (20 分)">
 <meta property="og:url" content="https://abe1.xyz/2019/06/basic_1002">
 <meta property="og:site_name" content="MrAbe1&#39;Blog">
 <meta property="og:description" content="1002 写出这个数 (20 分)">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-20T02:10:45.066Z">
+<meta property="og:updated_time" content="2019-06-20T02:28:43.041Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="1002 写出这个数 (20 分)">
 <meta name="twitter:description" content="1002 写出这个数 (20 分)">
@@ -550,7 +550,6 @@
     <span class="keyword">return</span> d;
 
 } 
-
 <span class="keyword">char</span> a[<span class="number">1000000</span>];
 <span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>{
     <span class="keyword">while</span>(gets(a)!=<span class="literal">NULL</span>)
@@ -650,9 +649,9 @@
 	   
         <div class="post-tags">
           
-            <a href="/tags/字符串处理/" rel="tag"><i class="fa fa-tag"></i> 字符串处理</a>
-          
             <a href="/tags/pat/" rel="tag"><i class="fa fa-tag"></i> pat</a>
+          
+            <a href="/tags/字符串处理/" rel="tag"><i class="fa fa-tag"></i> 字符串处理</a>
           
         </div>
        
@@ -675,10 +674,6 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2019/06/1001-害死人不偿命的-3n-1-猜想-15-分" rel="prev" title="1002 写出这个数 (20 分)">
-                1002 写出这个数 (20 分) <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -757,7 +752,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
