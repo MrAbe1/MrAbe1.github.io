@@ -127,7 +127,7 @@
 
 
 
-  <meta name="keywords" content="字符串处理,pat,">
+  <meta name="keywords" content="pat,字符串处理,">
 
 
 
@@ -141,7 +141,7 @@
 
 
 <meta name="description" content="个人博客：有生之年系列">
-<meta name="keywords" content="字符串处理,pat">
+<meta name="keywords" content="pat,字符串处理">
 <meta property="og:type" content="article">
 <meta property="og:title" content="1002 写出这个数 (20 分)">
 <meta property="og:url" content="https://abe1.xyz/2019/06/1001-害死人不偿命的-3n-1-猜想-15-分">
@@ -563,9 +563,9 @@
 	   
         <div class="post-tags">
           
-            <a href="/tags/字符串处理/" rel="tag"><i class="fa fa-tag"></i> 字符串处理</a>
-          
             <a href="/tags/pat/" rel="tag"><i class="fa fa-tag"></i> pat</a>
+          
+            <a href="/tags/字符串处理/" rel="tag"><i class="fa fa-tag"></i> 字符串处理</a>
           
         </div>
        
