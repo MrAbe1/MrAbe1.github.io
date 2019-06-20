@@ -127,7 +127,7 @@
 
 
 
-  <meta name="keywords" content="模拟,pat,">
+  <meta name="keywords" content="pat,模拟,">
 
 
 
@@ -141,7 +141,7 @@
 
 
 <meta name="description" content="1001 害死人不偿命的(3n+1)猜想">
-<meta name="keywords" content="模拟,pat">
+<meta name="keywords" content="pat,模拟">
 <meta property="og:type" content="article">
 <meta property="og:title" content="1001 害死人不偿命的(3n+1)猜想 (15 分)">
 <meta property="og:url" content="https://abe1.xyz/2019/06/basic_1001">
@@ -588,9 +588,9 @@
 	   
         <div class="post-tags">
           
-            <a href="/tags/模拟/" rel="tag"><i class="fa fa-tag"></i> 模拟</a>
-          
             <a href="/tags/pat/" rel="tag"><i class="fa fa-tag"></i> pat</a>
+          
+            <a href="/tags/模拟/" rel="tag"><i class="fa fa-tag"></i> 模拟</a>
           
         </div>
        
